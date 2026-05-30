@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingferify",
+        "uuid": 6209728,
+        "checksum": "gmqan"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
